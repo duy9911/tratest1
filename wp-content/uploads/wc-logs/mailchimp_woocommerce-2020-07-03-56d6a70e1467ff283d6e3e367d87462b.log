@@ -1,0 +1,42 @@
+2020-07-03T08:12:41+00:00 NOTICE mailchimp-woocommerce-sync.started :: Starting Sync :: Fri, Jul 3, 2020 8:12 AM
+2020-07-03T08:12:42+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Process_Coupons queued :: page 1
+2020-07-03T08:13:05+00:00 NOTICE coupon_sync.completed :: Done with the coupon queueing.
+2020-07-03T08:13:05+00:00 NOTICE sync.full_sync_manager.queue :: Starting PRODUCTS queueing.
+2020-07-03T08:13:05+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Process_Products queued :: page 1
+2020-07-03T08:13:05+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Process_Products queued :: page 2
+2020-07-03T08:13:05+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 13199
+2020-07-03T08:13:05+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 13201
+2020-07-03T08:13:05+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 13202
+2020-07-03T08:13:05+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 14541
+2020-07-03T08:13:05+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 14542
+2020-07-03T08:13:05+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 14543
+2020-07-03T08:13:05+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 14544
+2020-07-03T08:13:05+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 14545
+2020-07-03T08:13:05+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 14546
+2020-07-03T08:13:05+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 14547
+2020-07-03T08:13:05+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 14548
+2020-07-03T08:13:05+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 14549
+2020-07-03T08:13:05+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 14550
+2020-07-03T08:13:05+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 14551
+2020-07-03T08:13:05+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 14552
+2020-07-03T08:13:05+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 14553
+2020-07-03T08:13:07+00:00 NOTICE product_sync.completed :: Done with the product queuing
+2020-07-03T08:13:08+00:00 NOTICE product_submit.success :: addStoreProduct :: #13199
+2020-07-03T08:13:08+00:00 NOTICE product_submit.success :: addStoreProduct :: #13201
+2020-07-03T08:13:09+00:00 NOTICE product_submit.success :: addStoreProduct :: #13202
+2020-07-03T08:13:10+00:00 NOTICE product_submit.success :: addStoreProduct :: #14541
+2020-07-03T08:13:10+00:00 NOTICE product_submit.success :: addStoreProduct :: #14542
+2020-07-03T08:13:11+00:00 NOTICE product_submit.success :: addStoreProduct :: #14543
+2020-07-03T08:13:12+00:00 NOTICE product_submit.success :: addStoreProduct :: #14544
+2020-07-03T08:13:12+00:00 NOTICE product_submit.success :: addStoreProduct :: #14545
+2020-07-03T08:13:13+00:00 NOTICE product_submit.success :: addStoreProduct :: #14546
+2020-07-03T08:13:14+00:00 NOTICE product_submit.success :: addStoreProduct :: #14547
+2020-07-03T08:13:15+00:00 NOTICE product_submit.success :: addStoreProduct :: #14548
+2020-07-03T08:13:15+00:00 NOTICE product_submit.success :: addStoreProduct :: #14549
+2020-07-03T08:13:16+00:00 NOTICE product_submit.success :: addStoreProduct :: #14550
+2020-07-03T08:13:17+00:00 NOTICE product_submit.success :: addStoreProduct :: #14551
+2020-07-03T08:13:17+00:00 NOTICE product_submit.success :: addStoreProduct :: #14552
+2020-07-03T08:13:18+00:00 NOTICE product_submit.success :: addStoreProduct :: #14553
+2020-07-03T08:13:18+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Process_Orders queued :: page 1
+2020-07-03T08:13:20+00:00 NOTICE order_sync.completed :: Done with the order queueing.
+2020-07-03T08:13:41+00:00 NOTICE sync.completed :: Finished Sync :: Fri, Jul 3, 2020 8:13 AM (total time: 00:01:00)

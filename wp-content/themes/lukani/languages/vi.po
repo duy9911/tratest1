@@ -1,0 +1,572 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2020-06-29 22:07+0700\n"
+"PO-Revision-Date: 2020-06-29 22:19+0700\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: vi_VN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.3.1\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: author.php:80
+#, php-format
+msgid "Author Archives: %s"
+msgstr ""
+
+#: author.php:109
+#, php-format
+msgid "About %s"
+msgstr ""
+
+#: category.php:72
+#, php-format
+msgid "Category Archives: %s"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:327
+msgid "Install Required Plugins"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:328
+msgid "Install Plugins"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:330
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:332
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:333
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:385
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:386
+msgid "Return to the Dashboard"
+msgstr "Free Delivery"
+
+#: class-tgm-plugin-activation.php:387 class-tgm-plugin-activation.php:3159
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:388
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:390
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:392
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:394
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:395
+msgid "Dismiss this notice"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:396
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:397
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:1982
+#, php-format
+msgid "TGMPA v%s"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2273
+msgid "Required"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2276
+msgid "Recommended"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2292
+msgid "WordPress Repository"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2295
+msgid "External Source"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2298
+msgid "Pre-Packaged"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2315
+msgid "Not Installed"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2319
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2321
+msgid "Active"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2327
+msgid "Required Update not Available"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2330
+msgid "Requires Update"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2333
+msgid "Update recommended"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2490
+msgid "Installed version:"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2498
+msgid "Minimum required version:"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2510
+msgid "Available version:"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2547
+msgid "Plugin"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2548
+msgid "Source"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2549
+msgid "Type"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2553
+msgid "Version"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2554
+msgid "Status"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2603
+#, php-format
+msgid "Install %2$s"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2608
+#, php-format
+msgid "Update %2$s"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2614
+#, php-format
+msgid "Activate %2$s"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2717
+msgid "Install"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2723
+msgid "Update"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2726
+msgid "Activate"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2757
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2759
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2800
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2802
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:3158
+msgid "Plugin activation failed."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:3498
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:3501
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:3503
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:3507
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:3509
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:3510
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:3512
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:3515
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:3518
+msgid "All installations have been completed."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:3520
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: content-audio.php:86 content-gallery.php:83 content-image.php:85
+#: content-video.php:84 content.php:86
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: content-audio.php:119 content-gallery.php:115 content-image.php:117
+#: content-video.php:116 content.php:118
+#, php-format
+msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr ""
+
+#: functions.php:1017 functions.php:1018 functions.php:1019
+#, php-format
+msgid "Archive for: %s"
+msgstr ""
+
+#: functions.php:1149
+msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
+msgstr ""
+
+#: functions.php:1150
+msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: functions.php:1215
+#, php-format
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: functions.php:1265 functions.php:1269
+#, php-format
+msgid "<label>Tags:</label> %2$s"
+msgstr ""
+
+#: functions.php:1267
+#, php-format
+msgid "%1$s / <label>Tags:</label> %2$s"
+msgstr ""
+
+#: functions.php:1271
+#, php-format
+msgid "%1$s"
+msgstr ""
+
+#: functions.php:1283
+#, php-format
+msgid "View all posts by %s"
+msgstr ""
+
+#: functions.php:1305
+msgid "<span>0</span> comments"
+msgstr ""
+
+#: functions.php:1309
+msgid "<span>1</span> comment"
+msgstr ""
+
+#: image.php:141
+#, php-format
+msgid ""
+"<span class=\"meta-prep meta-prep-entry-date\">Published </span> <span class="
+"\"entry-date\"><time class=\"entry-date\" datetime=\"%1$s\">%2$s</time></"
+"span> at <a href=\"%3$s\" title=\"Link to full-size image\">%4$s &times; "
+"%5$s</a> in <a href=\"%6$s\" title=\"Return to %7$s\" rel=\"gallery\">%8$s</"
+"a>."
+msgstr ""
+
+#: index.php:112
+#, php-format
+msgid "Ready to publish your first post? <a href=\"%s\">Get started here</a>."
+msgstr ""
+
+#: road_importdata/importer.php:216
+msgid "Invalid URL Provided."
+msgstr ""
+
+#: road_importdata/importer.php:222
+msgid "Could not create Temporary file."
+msgstr ""
+
+#: road_importdata/importer.php:351 road_importdata/importer.php:399
+#: road_importdata/importer.php:403 road_importdata/importer.php:412
+msgid "Sorry, there has been an error."
+msgstr ""
+
+#: road_importdata/importer.php:404
+#, php-format
+msgid ""
+"The export file could not be found at <code>%s</code>. It is likely that "
+"this was caused by a permissions problem."
+msgstr ""
+
+#: road_importdata/importer.php:420
+#, php-format
+msgid ""
+"This WXR file (version %s) may not be supported by this version of the "
+"importer. Please consider updating."
+msgstr ""
+
+#: road_importdata/importer.php:470
+msgid "Assign Authors"
+msgstr ""
+
+#: road_importdata/importer.php:471
+msgid ""
+"To make it easier for you to edit and save the imported content, you may "
+"want to reassign the author of the imported item to an existing user of this "
+"site. For example, you may want to import all the entries as <code>admin</"
+"code>s entries."
+msgstr ""
+
+#: road_importdata/importer.php:473
+#, php-format
+msgid ""
+"If a new user is created by WordPress, a new password will be randomly "
+"generated and the new user&#8217;s role will be set as %s. Manually changing "
+"the new user&#8217;s details will be necessary."
+msgstr ""
+
+#: road_importdata/importer.php:483
+msgid "Import Attachments"
+msgstr ""
+
+#: road_importdata/importer.php:486
+msgid "Download and import file attachments"
+msgstr ""
+
+#: road_importdata/importer.php:503
+msgid "Import author:"
+msgstr ""
+
+#: road_importdata/importer.php:514
+msgid "or create new user with login name:"
+msgstr ""
+
+#: road_importdata/importer.php:517
+msgid "as a new user:"
+msgstr ""
+
+#: road_importdata/importer.php:525
+msgid "assign posts to an existing user:"
+msgstr ""
+
+#: road_importdata/importer.php:527
+msgid "or assign posts to an existing user:"
+msgstr ""
+
+#: road_importdata/importer.php:528
+msgid "- Select -"
+msgstr ""
+
+#: road_importdata/importer.php:578
+#, php-format
+msgid ""
+"Failed to create new user for %s. Their posts will be attributed to the "
+"current user."
+msgstr ""
+
+#: road_importdata/importer.php:1077
+#, php-format
+msgid "Menu item skipped due to invalid menu slug: %s"
+msgstr ""
+
+#: road_importdata/importer.php:1157
+msgid "Fetching attachments is not enabled"
+msgstr ""
+
+#: road_importdata/importer.php:1183
+msgid "Invalid file type"
+msgstr ""
+
+#: road_importdata/importer.php:1229
+msgid "Remote server did not respond"
+msgstr ""
+
+#: road_importdata/importer.php:1235
+#, php-format
+msgid "Remote server returned error response %1$d %2$s"
+msgstr ""
+
+#: road_importdata/importer.php:1242
+msgid "Remote file is incorrect size"
+msgstr ""
+
+#: road_importdata/importer.php:1247
+msgid "Zero size file downloaded"
+msgstr ""
+
+#: road_importdata/importer.php:1253
+#, php-format
+msgid "Remote file is too large, limit is %s"
+msgstr ""
+
+#: road_importdata/importer.php:1353
+msgid "Import WordPress"
+msgstr ""
+
+#: road_importdata/importer.php:1360
+#, php-format
+msgid ""
+"A new version of this importer is available. Please update to version %s to "
+"ensure compatibility with newer export files."
+msgstr ""
+
+#: road_importdata/importer.php:1375
+msgid ""
+"Howdy! Upload your WordPress eXtended RSS (WXR) file and we&#8217;ll import "
+"the posts, pages, comments, custom fields, categories, and tags into this "
+"site."
+msgstr ""
+
+#: road_importdata/importer.php:1376
+msgid "Choose a WXR (.xml) file to upload, then click Upload file and import."
+msgstr ""
+
+#: search.php:72
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: tag.php:78
+#, php-format
+msgid "Tag Archives: %s"
+msgstr ""
+
+#: theme-config.php:131
+#, php-format
+msgid "Customize &#8220;%s&#8221;"
+msgstr ""
+
+#: theme-config.php:148
+#, php-format
+msgid "By %s"
+msgstr ""
+
+#: theme-config.php:149
+#, php-format
+msgid "Version %s"
+msgstr ""
+
+#: theme-config.php:150
+msgid "Tags"
+msgstr ""
+
+#: theme-config.php:155
+#, php-format
+msgid "This <a href=\"%1$s\">child theme</a> requires its parent theme, %2$s."
+msgstr ""
+
+#: theme-config.php:155
+msgid "http://codex.wordpress.org/Child_Themes"
+msgstr ""
+
+#: woocommerce/cart/cart.php:34
+msgid "Images"
+msgstr ""
+
+#: woocommerce/cart/cart.php:35
+msgid "Product"
+msgstr ""
+
+#: woocommerce/cart/cart.php:36
+msgid "Price"
+msgstr ""
+
+#: woocommerce/cart/cart.php:37
+msgid "Quantity"
+msgstr ""
+
+#: woocommerce/cart/cart.php:38
+msgid "Total"
+msgstr ""
+
+#: woocommerce/cart/cart.php:39
+msgid "Delete"
+msgstr ""
+
+#: woocommerce/cart/cart.php:121 woocommerce/cart/mini-cart.php:72
+msgid "Remove this item"
+msgstr ""
+
+#: woocommerce/cart/cart.php:155
+msgid "Coupon"
+msgstr ""
+
+#: woocommerce/cart/mini-cart.php:88
+msgid "Subtotal"
+msgstr ""
+
+#: woocommerce/cart/mini-cart.php:96
+msgid "No products in the cart."
+msgstr ""

@@ -1,0 +1,111 @@
+2020-07-01T02:28:07+00:00 CRITICAL Uncaught Error: Class 'Woo_Provinces' not found in C:\xampp\htdocs\wordpress\wp-content\themes\lukani\functions.php:17
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(287): hoangweb_init('')
+#1 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#2 C:\xampp\htdocs\wordpress\wp-includes\plugin.php(478): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\wordpress\wp-settings.php(540): do_action('init')
+#4 C:\xampp\htdocs\wordpress\wp-config.php(91): require_once('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\wordpress\wp-load.php(37): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\wordpress\wp-cron.php(44): require_once('C:\\xampp\\htdocs...')
+#7 {main}
+  thrown in C:\xampp\htdocs\wordpress\wp-content\themes\lukani\functions.php on line 17
+
+2020-07-01T02:28:14+00:00 CRITICAL Uncaught Error: Class 'Woo_Provinces' not found in C:\xampp\htdocs\wordpress\wp-content\themes\lukani\functions.php:17
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(287): hoangweb_init('')
+#1 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#2 C:\xampp\htdocs\wordpress\wp-includes\plugin.php(478): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\wordpress\wp-settings.php(540): do_action('init')
+#4 C:\xampp\htdocs\wordpress\wp-config.php(91): require_once('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\wordpress\wp-load.php(37): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\wordpress\wp-blog-header.php(13): require_once('C:\\xampp\\htdocs...')
+#7 C:\xampp\htdocs\wordpress\index.php(17): require('C:\\xampp\\htdocs...')
+#8 {main}
+  thrown in C:\xampp\htdocs\wordpress\wp-content\themes\lukani\functions.php on line 17
+
+2020-07-01T02:28:21+00:00 CRITICAL Uncaught Error: Class 'Woo_Provinces' not found in C:\xampp\htdocs\wordpress\wp-content\themes\lukani\functions.php:17
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(287): hoangweb_init('')
+#1 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#2 C:\xampp\htdocs\wordpress\wp-includes\plugin.php(478): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\wordpress\wp-settings.php(540): do_action('init')
+#4 C:\xampp\htdocs\wordpress\wp-config.php(91): require_once('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\wordpress\wp-load.php(37): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\wordpress\wp-admin\admin.php(34): require_once('C:\\xampp\\htdocs...')
+#7 {main}
+  thrown in C:\xampp\htdocs\wordpress\wp-content\themes\lukani\functions.php on line 17
+
+2020-07-01T02:28:22+00:00 CRITICAL Uncaught Error: Class 'Woo_Provinces' not found in C:\xampp\htdocs\wordpress\wp-content\themes\lukani\functions.php:17
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(287): hoangweb_init('')
+#1 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#2 C:\xampp\htdocs\wordpress\wp-includes\plugin.php(478): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\wordpress\wp-settings.php(540): do_action('init')
+#4 C:\xampp\htdocs\wordpress\wp-config.php(91): require_once('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\wordpress\wp-load.php(37): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\wordpress\wp-blog-header.php(13): require_once('C:\\xampp\\htdocs...')
+#7 C:\xampp\htdocs\wordpress\index.php(17): require('C:\\xampp\\htdocs...')
+#8 {main}
+  thrown in C:\xampp\htdocs\wordpress\wp-content\themes\lukani\functions.php on line 17
+
+2020-07-01T02:28:23+00:00 CRITICAL Uncaught Error: Class 'Woo_Provinces' not found in C:\xampp\htdocs\wordpress\wp-content\themes\lukani\functions.php:17
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(287): hoangweb_init('')
+#1 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#2 C:\xampp\htdocs\wordpress\wp-includes\plugin.php(478): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\wordpress\wp-settings.php(540): do_action('init')
+#4 C:\xampp\htdocs\wordpress\wp-config.php(91): require_once('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\wordpress\wp-load.php(37): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\wordpress\wp-admin\admin.php(34): require_once('C:\\xampp\\htdocs...')
+#7 C:\xampp\htdocs\wordpress\wp-admin\post.php(12): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+  thrown in C:\xampp\htdocs\wordpress\wp-content\themes\lukani\functions.php on line 17
+
+2020-07-01T02:28:25+00:00 CRITICAL Uncaught Error: Class 'Woo_Provinces' not found in C:\xampp\htdocs\wordpress\wp-content\themes\lukani\functions.php:17
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(287): hoangweb_init('')
+#1 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#2 C:\xampp\htdocs\wordpress\wp-includes\plugin.php(478): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\wordpress\wp-settings.php(540): do_action('init')
+#4 C:\xampp\htdocs\wordpress\wp-config.php(91): require_once('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\wordpress\wp-load.php(37): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\wordpress\wp-blog-header.php(13): require_once('C:\\xampp\\htdocs...')
+#7 C:\xampp\htdocs\wordpress\index.php(17): require('C:\\xampp\\htdocs...')
+#8 {main}
+  thrown in C:\xampp\htdocs\wordpress\wp-content\themes\lukani\functions.php on line 17
+
+2020-07-01T02:29:15+00:00 CRITICAL Uncaught Error: Class 'Woo_Provinces' not found in C:\xampp\htdocs\wordpress\wp-content\themes\lukani\functions.php:17
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(287): hoangweb_init('')
+#1 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#2 C:\xampp\htdocs\wordpress\wp-includes\plugin.php(478): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\wordpress\wp-settings.php(540): do_action('init')
+#4 C:\xampp\htdocs\wordpress\wp-config.php(91): require_once('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\wordpress\wp-load.php(37): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\wordpress\wp-admin\admin.php(34): require_once('C:\\xampp\\htdocs...')
+#7 C:\xampp\htdocs\wordpress\wp-admin\post.php(12): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+  thrown in C:\xampp\htdocs\wordpress\wp-content\themes\lukani\functions.php on line 17
+
+2020-07-01T02:29:15+00:00 CRITICAL Uncaught Error: Class 'Woo_Provinces' not found in C:\xampp\htdocs\wordpress\wp-content\themes\lukani\functions.php:17
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(287): hoangweb_init('')
+#1 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#2 C:\xampp\htdocs\wordpress\wp-includes\plugin.php(478): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\wordpress\wp-settings.php(540): do_action('init')
+#4 C:\xampp\htdocs\wordpress\wp-config.php(91): require_once('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\wordpress\wp-load.php(37): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\wordpress\wp-cron.php(44): require_once('C:\\xampp\\htdocs...')
+#7 {main}
+  thrown in C:\xampp\htdocs\wordpress\wp-content\themes\lukani\functions.php on line 17
+
+2020-07-01T02:37:36+00:00 CRITICAL Uncaught Error: Class 'BP_Core_Nav' not found in C:\xampp\htdocs\wordpress\wp-content\plugins\buddypress\bp-templates\bp-nouveau\buddypress-functions.php:78
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-content\plugins\buddypress\bp-core\classes\class-bp-theme-compat.php(71): BP_Nouveau->setup_globals()
+#1 C:\xampp\htdocs\wordpress\wp-content\plugins\buddypress\bp-templates\bp-nouveau\buddypress-functions.php(59): BP_Theme_Compat->start()
+#2 C:\xampp\htdocs\wordpress\wp-content\plugins\buddypress\bp-templates\bp-nouveau\buddypress-functions.php(47): BP_Nouveau->__construct()
+#3 C:\xampp\htdocs\wordpress\wp-content\plugins\buddypress\bp-templates\bp-nouveau\buddypress-functions.php(662): BP_Nouveau::get_instance()
+#4 C:\xampp\htdocs\wordpress\wp-content\plugins\buddypress\bp-templates\bp-nouveau\buddypress-functions.php(668): bp_nouveau()
+#5 C:\xampp\htdocs\wordpress\wp-includes\template.php(723): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\wordpress\wp-content\plugins\buddypress\bp-core\bp-core-tem in C:\xampp\htdocs\wordpress\wp-content\plugins\buddypress\bp-templates\bp-nouveau\buddypress-functions.php on line 78
+
